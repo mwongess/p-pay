@@ -4,6 +4,6 @@ Moyasar.init({
     currency: 'SAR',
     description: 'Coffee Order #1',
     publishable_api_key: 'pk_test_AQpxBV31a29qhkhUYFYUFjhwllaDVrxSq5ydVNui',
-    callback_url: 'https://moyasar.com/thanks',
+    callback_url: 'thanks.html',
     methods: ['creditcard']
   })
