@@ -4,6 +4,6 @@ Moyasar.init({
     currency: 'SAR',
     description: 'Item to buy',
     publishable_api_key: '',
-    callback_url: 'thanks.html',
+    callback_url: './thanks.html',
     methods: ['creditcard']
   })
