@@ -5,7 +5,7 @@ Moyasar.init({
     element: mysr_form,
     amount: amaount,
     currency: 'SAR',
-    description: 'Item to buy',
+    description: 'My item',
     publishable_api_key: '',
     callback_url: './thanks.html',
     methods: ['creditcard']
